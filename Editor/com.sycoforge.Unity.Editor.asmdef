@@ -2,6 +2,7 @@
     "name": "com.Sycoforge.Unity.Editor",
     "rootNamespace": "",
     "references": [
+        "GUID:b7bddebbf6ffcad48933ed41216973c6",
         "GUID:b7bddebbf6ffcad48933ed41216973c6"
     ],
     "includePlatforms": [
