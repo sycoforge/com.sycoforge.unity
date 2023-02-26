@@ -5,4 +5,10 @@
   "unity": "2020.3",
   "description": "Sycoforge default tools for Unity. Required by many other Sycoforge plugins.",
   "type": "tool"
+  
+   "author": {
+   "name" : "Sycoforge Studio",
+   "email" : "hello@sycoforge.com",
+   "url" : "https://www.sycoforge.com/en/"
+}
 }
