@@ -1,0 +1,8 @@
+{
+  "name": "com.sycoforge.unity",
+  "displayName": "Sycoforge Unity Tools",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Sycoforge default tools for Unity. Required by many other Sycoforge plugins.",
+  "type": "tool"
+}
